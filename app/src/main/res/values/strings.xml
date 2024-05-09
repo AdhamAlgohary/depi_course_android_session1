@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firstsession</string>
+    <string name="first_session">First Session</string>
+    <string name="image_desc">image_desc</string>
+    <string name="my_name">Adham</string>
+    <string name="job_title">Flutter developer</string>
+</resources>
